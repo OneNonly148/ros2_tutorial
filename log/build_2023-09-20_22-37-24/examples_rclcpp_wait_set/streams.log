@@ -1,0 +1,45 @@
+[0.033s] Invoking command in '/home/wawj/Documents/Study - UTHM PhD/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/wawj/Documents/Study - UTHM PhD/ros2_ws/src/examples/rclcpp/wait_set -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wawj/Documents/Study - UTHM PhD/ros2_ws/install/examples_rclcpp_wait_set
+[1.966s] -- The C compiler identification is GNU 11.4.0
+[1.966s] -- The CXX compiler identification is GNU 11.4.0
+[1.966s] -- Detecting C compiler ABI info
+[1.966s] -- Detecting C compiler ABI info - done
+[1.967s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.967s] -- Detecting C compile features
+[1.967s] -- Detecting C compile features - done
+[1.967s] -- Detecting CXX compiler ABI info
+[1.967s] -- Detecting CXX compiler ABI info - done
+[1.967s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.967s] -- Detecting CXX compile features
+[1.967s] -- Detecting CXX compile features - done
+[1.967s] -- Found ament_cmake: 2.0.3 (/opt/ros/iron/share/ament_cmake/cmake)
+[1.967s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.967s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.968s] -- Found example_interfaces: 0.10.2 (/opt/ros/iron/share/example_interfaces/cmake)
+[1.968s] -- Found rosidl_generator_c: 4.0.1 (/opt/ros/iron/share/rosidl_generator_c/cmake)
+[1.968s] -- Found rosidl_generator_cpp: 4.0.1 (/opt/ros/iron/share/rosidl_generator_cpp/cmake)
+[1.968s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.968s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.968s] -- Found rclcpp: 21.0.3 (/opt/ros/iron/share/rclcpp/cmake)
+[1.968s] -- Found rmw_implementation_cmake: 7.1.0 (/opt/ros/iron/share/rmw_implementation_cmake/cmake)
+[1.968s] -- Found rmw_fastrtps_cpp: 7.1.1 (/opt/ros/iron/share/rmw_fastrtps_cpp/cmake)
+[1.968s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.968s] -- Found FastRTPS: /opt/ros/iron/include  
+[1.968s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.024s] -- Found rclcpp_components: 21.0.3 (/opt/ros/iron/share/rclcpp_components/cmake)
+[2.217s] -- Found std_msgs: 5.0.0 (/opt/ros/iron/share/std_msgs/cmake)
+[2.292s] -- Found ament_lint_auto: 0.14.2 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[2.434s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.442s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.442s] -- Configured cppcheck include dirs: /home/wawj/Documents/Study - UTHM PhD/ros2_ws/src/examples/rclcpp/wait_set/include
+[2.443s] -- Configured cppcheck exclude dirs and/or files: 
+[2.443s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.443s] -- Configured cpplint exclude dirs and/or files: 
+[2.443s] -- Added test 'lint_cmake' to check CMake code style
+[2.444s] -- Added test 'uncrustify' to check C / C++ code style
+[2.444s] -- Configured uncrustify additional arguments: 
+[2.445s] -- Added test 'xmllint' to check XML markup files
+[2.448s] -- Configuring done
+[2.547s] -- Generating done
+[2.560s] -- Build files have been written to: /home/wawj/Documents/Study - UTHM PhD/ros2_ws/build/examples_rclcpp_wait_set
+[2.579s] Invoked command in '/home/wawj/Documents/Study - UTHM PhD/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/wawj/Documents/Study - UTHM PhD/ros2_ws/src/examples/rclcpp/wait_set -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wawj/Documents/Study - UTHM PhD/ros2_ws/install/examples_rclcpp_wait_set
+[2.580s] Invoking command in '/home/wawj/Documents/Study - UTHM PhD/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=/opt/ros/iron CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/wawj/Documents/Study - UTHM PhD/ros2_ws/build/examples_rclcpp_wait_set -- -j12 -l12
